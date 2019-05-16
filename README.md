@@ -5,6 +5,9 @@
 ## Configuration
 
 Set the environment variables found in `set_envs.sample`.
+You can find the locations and mapbox key in the accessmap orchestration directory in config/caddy
+
+Then you can run npm ci and npm start in this directory to enable hot-reloading.
 
 #### Important: if running the development server, prefix all `SERVER`
 
